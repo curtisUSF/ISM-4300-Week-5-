@@ -67,7 +67,7 @@ namespace recount
             }
 
 
-            //if countWinners more than 1 then tie
+            //if countWinners more than 1 then "Runoff!"
             if (countWinners == 1)
             {
                 
